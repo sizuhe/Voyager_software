@@ -1,3 +1,10 @@
+# PyQt
+```bash
+pyuic5 -x nombredelarchivo.ui | clip
+```
+
+
+
 # Git
 ```bash
 # Usuario en git
